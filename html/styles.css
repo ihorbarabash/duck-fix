@@ -9,7 +9,7 @@ body {
     margin: 0 ;
     padding: 0 ;
     float: left;
-    background: url(images/headBg.jpg) repeat-x
+    background: url(images/headBg.jpg) repeat-x;
 }
 #headpanel {
     width: 934px;
