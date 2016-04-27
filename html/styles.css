@@ -450,7 +450,7 @@ body {
     margin: 19px 0 0 0;
     padding: 0;
     float: left;
-    background:  (images/pic3.jpg) no-repeat
+    background:  url(images/pic3.jpg) no-repeat
 }
 #middlePanel .bottom ul {
     width: 349px;
